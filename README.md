@@ -6,7 +6,7 @@ Soyez au courant des streams en cours des membres de Solary !
 
 - Télécharger le dossier build et le décompresser
 - Cliquer sur le logo d'extension et sur "Gérer les extensions"
-- Activez le mode dévellopeur
+- Activer le mode développeur
 - Cliquer sur "Charger l'extension non empaquetée"
-- Selectionner votre dossier build
-- Tadam l'extension est désormais disponible parmis vos extensions !
+- Sélectionner votre dossier build
+- Tadam l'extension est désormais disponible parmi vos extensions !
